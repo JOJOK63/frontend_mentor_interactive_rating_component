@@ -32,7 +32,7 @@ body{
 
 .content{
     width: 320px;
-    height: 320px;
+    height: auto;
     margin: auto;
     background-color: var(--d-blue);
     border-radius:10px;
